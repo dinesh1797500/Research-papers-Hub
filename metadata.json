@@ -1,0 +1,6 @@
+{
+  "name": "Chennai Research Hub",
+  "description": "Check plagiarism percentage, manage research conferences over Chennai, upload historical papers, and view/edit profile.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
